@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm mo7mead wael</h1>
-<h3 align="center">A passionate Cyber Security Engineer India</h3>
+<h3 align="center"> Cyber Security Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohmead-wael&label=Profile%20views&color=0e75b6&style=flat" alt="mohmead-wael" /> </p>
 
